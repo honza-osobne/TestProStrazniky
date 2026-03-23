@@ -38,3 +38,48 @@ Spustit: https://honza-osobne.github.io/TestProStrazniky/
 Soukromí: Veškerá historie vašich odpovědí se ukládá pouze ve vašem zařízení (mobil, počítač) a nikam se neodesílá.
 
    - **Mobilní zobrazení:** Rozhraní je plně přizpůsobeno pro telefony, takže se můžete učit v terénu i během pauzy.
+
+
+
+# 📖 Uživatelský manuál
+
+Tato příručka vám pomůže rychle se zorientovat v ovládání aplikace, abyste mohli maximum času věnovat studiu zákonů.
+
+## 🕹️ Základní ovládání a režimy
+
+Hned po otevření aplikace uvidíte v horní části tři hlavní tlačítka:
+- **Procvičování:** Hlavní režim pro učení, kde hned vidíte výsledky.
+- **Test:** Režim simulující skutečnou zkoušku s časovým limitem.
+- **☰ Nastavení:** Skryté menu, kde najdete své statistiky a filtry pro učení.
+
+## ✍️ Režim: Procvičování (Učení)
+
+V tomto režimu procházíte otázky jednu po druhé. Aplikace vám přednostně dává ty, ve kterých jste minule chybovali.
+
+- **Výběr odpovědi:** Stačí kliknout na vybranou možnost. Správná odpověď zezelená, špatná zčervená.
+- **Přeskočení:** Pokud nechcete na otázku odpovídat, použijte tlačítko "Přeskočit na další".
+- **Filtrování (v menu Nastavení):**
+  - **Kategorie:** Můžete se učit jen konkrétní zákon (např. pouze Ústavu).
+  - **Hledání:** Zadejte slovo (např. "donucovací") a aplikace vybere jen otázky, které ho obsahují.
+  - **Skočit na ID:** Pokud znáte číslo otázky, zadejte ho a aplikace vás na ni okamžitě přepne.
+  
+## ⏱️ Režim: Test (Zkouška nanečisto)
+
+Tento režim slouží k ověření, zda byste u zkoušky prošli.
+
+- **Složení:** Test obsahuje vždy 40 otázek namíchaných z různých kategorií.
+- **Časomíra:** V horní části běží odpočet 60 minut.
+- **Mřížka otázek:** Pod časem vidíte čísla 1 až 40. Kliknutím na číslo se na danou otázku přepnete.
+- **Vlaječky:** Pokud si nejste jistí, podržte prst na čísle otázky v mřížce po dobu cca půl sekundy. Číslo zežloutne. To vám připomene, že se k otázce máte před koncem testu vrátit.
+- **Vyhodnocení:** Test ukončíte tlačítkem "Ukončit a vyhodnotit" v horní části. Následně uvidíte detailní rozbor svých chyb.
+
+## 📊 Statistiky a historieSvé pokroky najdete v menu pod tlačítkem "Zobrazit celkové statistiky".
+- **Úspěšnost:** Uvidíte celkové procento správných odpovědí.
+- **Grafy kategorií:** Zjistíte, ve kterém zákoně máte největší mezery.
+- **Chybované otázky:** Seznam otázek, které vám dělají největší potíže, s přehledem kolikrát jste v nich chybovali.
+- **Smazání historie:** Pokud se chcete začít učit od nuly, můžete veškeré své statistiky vymazat tlačítkem "Smazat veškerou historii".
+
+## 💡 Dobré tipy na závěr
+
+- **Data jsou u vás:** Aplikace neposílá vaše výsledky nikam na internet. Vše se ukládá pouze ve vašem prohlížeči. Pokud vymažete mezipaměť prohlížeče, přijdete i o své statistiky.
+- **Plynulost:** Aplikace vás po každé správné odpovědi v režimu Procvičování automaticky posune na další otázku.
